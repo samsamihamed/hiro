@@ -1,20 +1,4 @@
 {
   "tasks": [
-    {
-      "id": "0iw1gjt1adpxocnm",
-      "address": "https://download3.operacdn.com/pub/opera/desktop/72.0.3815.378/linux/opera-stable_72.0.3815.378_amd64.deb",
-      "status": "100",
-      "lastTry": "0",
-      "createdAt": 1605891669655,
-      "transferRate": "0"
-    },
-    {
-      "id": "zwr91doblkm99k6k",
-      "address": "https://dl2.soft98.ir/soft/w/WinRAR.5.91.zip?1605905701",
-      "status": "100",
-      "transferRate": "0",
-      "lastTry": "",
-      "createdAt": 1605905762012
-    }
   ]
 }
