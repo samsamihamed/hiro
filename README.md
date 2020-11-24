@@ -1,4 +1,4 @@
-# Foobar
+# Hiro
 
 Hiro is a simple but powerful download accelerator and manager based on Axel made by React, Node.js, and Electron.js.
 
